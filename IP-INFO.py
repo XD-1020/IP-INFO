@@ -65,7 +65,7 @@ if resp == "1":
     Country : {c}
     City : {x}
     Region {v}
-    Internet Type : {m}
+    ICP : {m}
     Timezone : {a}
     Time now : {Time}""")
 elif resp == "2":
@@ -85,7 +85,7 @@ elif resp == "2":
     Country : {country}
     City : {city}
     Region : {region}
-    Internet type : {internet}
+    ICP : {internet}
     Timezone : {timezone}
     Time now : {Time}
     """)
