@@ -44,7 +44,7 @@ Channel on Telegram = > @HHSPX
 print(Fore.BLUE + "Hi welcom to IP-INFO TOOL.")
 choice = Fore.GREEN + """ Choose 1 or 2
 [1] GET MY IP AND INFORMATION?
-[2] WRITE THE IP AND GET INFORMAYION?
+[2] WRITE THE IP AND GET INFORMATION?
 """
 print(Logo)
 print(choice)
@@ -81,7 +81,7 @@ elif resp == "2":
     Time = datetime.now()
     print(Fore.GREEN + f"""
     Target : {Target}
-    Location : {location} : {lat}
+    Location : {lat},{location}
     Country : {country}
     City : {city}
     Region : {region}
