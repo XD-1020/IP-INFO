@@ -14,4 +14,4 @@
 * python IP-INFO.py
 
 
-[My Telegram](https://t.me/spyrc)
+[My Telegram](https://t.me/itsSPYRX)
